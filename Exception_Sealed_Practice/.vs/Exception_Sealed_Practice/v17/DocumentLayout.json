@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|solutionrelative:exception_sealed_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|c:\\users\\vivex\\desktop\\exception_sealed\\exception_sealed_practice\\exception_sealed_practice\\customexceptions\\duplicatetitleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|solutionrelative:exception_sealed_practice\\customexceptions\\duplicatetitleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|c:\\users\\vivex\\desktop\\exception_sealed\\exception_sealed_practice\\exception_sealed_practice\\services\\transportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|solutionrelative:exception_sealed_practice\\services\\transportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|c:\\users\\vivex\\desktop\\exception_sealed\\exception_sealed_practice\\exception_sealed_practice\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|solutionrelative:exception_sealed_practice\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|c:\\users\\vivex\\desktop\\exception_sealed\\exception_sealed_practice\\exception_sealed_practice\\services\\interfaces\\itransportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|solutionrelative:exception_sealed_practice\\services\\interfaces\\itransportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|c:\\users\\vivex\\desktop\\exception_sealed\\exception_sealed_practice\\exception_sealed_practice\\customexceptions\\duplicatetitleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|solutionrelative:exception_sealed_practice\\customexceptions\\duplicatetitleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|c:\\users\\vivex\\desktop\\exception_sealed\\exception_sealed_practice\\exception_sealed_practice\\customexceptions\\yearexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|c:\\users\\vivex\\desktop\\exception_sealed\\exception_sealed_practice\\exception_sealed_practice\\model\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|solutionrelative:exception_sealed_practice\\model\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|c:\\users\\vivex\\desktop\\exception_sealed\\exception_sealed_practice\\exception_sealed_practice\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F25D8475-DF30-417B-8E3E-4E3F47F37CB1}|Exception_Sealed_Practice\\Exception_Sealed_Practice.csproj|solutionrelative:exception_sealed_practice\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "DuplicateTitleException.cs",
               "DocumentMoniker": "C:\\Users\\vivex\\Desktop\\Exception_Sealed\\Exception_Sealed_Practice\\Exception_Sealed_Practice\\CustomExceptions\\DuplicateTitleException.cs",
               "RelativeDocumentMoniker": "Exception_Sealed_Practice\\CustomExceptions\\DuplicateTitleException.cs",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "YearException.cs",
               "DocumentMoniker": "C:\\Users\\vivex\\Desktop\\Exception_Sealed\\Exception_Sealed_Practice\\Exception_Sealed_Practice\\CustomExceptions\\YearException.cs",
               "RelativeDocumentMoniker": "Exception_Sealed_Practice\\CustomExceptions\\YearException.cs",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LengthException.cs",
               "DocumentMoniker": "C:\\Users\\vivex\\Desktop\\Exception_Sealed\\Exception_Sealed_Practice\\Exception_Sealed_Practice\\CustomExceptions\\LengthException.cs",
               "RelativeDocumentMoniker": "Exception_Sealed_Practice\\CustomExceptions\\LengthException.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "NullorException.cs",
               "DocumentMoniker": "C:\\Users\\vivex\\Desktop\\Exception_Sealed\\Exception_Sealed_Practice\\Exception_Sealed_Practice\\CustomExceptions\\NullorException.cs",
               "RelativeDocumentMoniker": "Exception_Sealed_Practice\\CustomExceptions\\NullorException.cs",
@@ -106,15 +106,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TransportService.cs",
               "DocumentMoniker": "C:\\Users\\vivex\\Desktop\\Exception_Sealed\\Exception_Sealed_Practice\\Exception_Sealed_Practice\\Services\\TransportService.cs",
               "RelativeDocumentMoniker": "Exception_Sealed_Practice\\Services\\TransportService.cs",
               "ToolTip": "C:\\Users\\vivex\\Desktop\\Exception_Sealed\\Exception_Sealed_Practice\\Exception_Sealed_Practice\\Services\\TransportService.cs",
               "RelativeToolTip": "Exception_Sealed_Practice\\Services\\TransportService.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T10:31:54.507Z"
+              "WhenOpened": "2025-11-04T10:31:54.507Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -126,11 +127,12 @@
               "RelativeToolTip": "Exception_Sealed_Practice\\Services\\Interfaces\\ITransportService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T10:30:06.802Z"
+              "WhenOpened": "2025-11-04T10:30:06.802Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Transport.cs",
               "DocumentMoniker": "C:\\Users\\vivex\\Desktop\\Exception_Sealed\\Exception_Sealed_Practice\\Exception_Sealed_Practice\\Model\\Transport.cs",
               "RelativeDocumentMoniker": "Exception_Sealed_Practice\\Model\\Transport.cs",
@@ -142,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\vivex\\Desktop\\Exception_Sealed\\Exception_Sealed_Practice\\Exception_Sealed_Practice\\Model\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Exception_Sealed_Practice\\Model\\BaseEntity.cs",
@@ -150,7 +152,8 @@
               "RelativeToolTip": "Exception_Sealed_Practice\\Model\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T10:23:37.099Z"
+              "WhenOpened": "2025-11-04T10:23:37.099Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -160,7 +163,7 @@
               "RelativeDocumentMoniker": "Exception_Sealed_Practice\\Program.cs",
               "ToolTip": "C:\\Users\\vivex\\Desktop\\Exception_Sealed\\Exception_Sealed_Practice\\Exception_Sealed_Practice\\Program.cs",
               "RelativeToolTip": "Exception_Sealed_Practice\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T10:16:23.413Z",
               "EditorCaption": ""

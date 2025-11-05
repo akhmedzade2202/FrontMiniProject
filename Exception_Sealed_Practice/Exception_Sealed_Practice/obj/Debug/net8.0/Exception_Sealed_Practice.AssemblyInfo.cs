@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exception_Sealed_Practice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4c4bacc482d71e746866445f57d8fe714a7dff8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exception_Sealed_Practice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exception_Sealed_Practice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

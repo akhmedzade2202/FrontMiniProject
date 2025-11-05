@@ -7,7 +7,7 @@ namespace Exception_Sealed_Practice.Services
 {
     public class TransportService : ITransportService
     {
-        private Transport _transport;
+        private Transport[] _transports = new Transport[0];
 
         public void CreateTransport(string model, string brand, int year, string title)
         {
@@ -69,30 +69,34 @@ namespace Exception_Sealed_Practice.Services
             Console.Write("Enter car title: ");
             title = Console.ReadLine();
 
-            _transport = new Transport
+            Transport transport = new Transport
             {
-                ID = 1,
+                ID = _transports.Length + 1,
                 Model = model,
                 Brand = brand,
                 Year = year,
                 title = title
             };
 
+            Array.Resize(ref _transports, _transports.Length + 1);
+            _transports[^1] = transport;
+
             Console.WriteLine("Transport successfully created!\n");
         }
 
         public void GetAllTransports()
         {
-            if (_transport == null)
+            if (_transports.Length == 0)
             {
-                Console.WriteLine("No transport has been created yet.");
+                Console.WriteLine("No transports have been created yet.");
                 return;
             }
 
-            Console.WriteLine($"Model: {_transport.Model}");
-            Console.WriteLine($"Brand: {_transport.Brand}");
-            Console.WriteLine($"Year: {_transport.Year}");
-            Console.WriteLine($"Title: {_transport.title}");
+            Console.WriteLine("\nAll transports:");
+            foreach (var t in _transports)
+            {
+                Console.WriteLine($"ID: {t.ID} | Model: {t.Model} | Brand: {t.Brand} | Year: {t.Year} | Title: {t.title}");
+            }
         }
     }
 }
