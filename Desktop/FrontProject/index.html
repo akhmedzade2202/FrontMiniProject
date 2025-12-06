@@ -1,32 +1,20 @@
 <!DOCTYPE html>
-<html lang="az">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>TV Shows - Home</title>
-    <link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8">
+  <title>akhmedzadeflix.com</title>
+  <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-<header>
-    <img src="assets/logo.png" class="logo">
-    <input type="text" id="searchInput" placeholder="Axtar…">
-</header>
 
-<section id="filters">
-    <select id="genreFilter">
-        <option value="">Janr seçin</option>
-        <option value="Drama">Drama</option>
-        <option value="Comedy">Comedy</option>
-        <option value="Action">Action</option>
-        <option value="Crime">Crime</option>
-    </select>
-</section>
+  <h1>AKHMEDZADE FLIX</h1>
 
-<main id="movies"></main>
+  <input id="search" placeholder="Search shows...">
 
-<button id="loadMore">Daha Çox</button>
+  <div id="list" class="grid"></div>
 
+  <button id="loadMore">Load More</button>
 
-
+  <script src="app.js"></script>
 </body>
 </html>
