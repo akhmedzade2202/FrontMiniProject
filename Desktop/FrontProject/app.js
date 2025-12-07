@@ -9,17 +9,19 @@ function loadShows() {
 }
 
 function render(data) {
+  list.innerHTML = ""; 
   data.forEach(show => {
     const card = document.createElement("div");
     card.className = "card";
     card.innerHTML = `
       <img src="${show.image?.medium || ''}">
-      <p>${show.name}</p>
+      <p style="margin-top:5px">${show.name}</p>  
     `;
     card.onclick = () => window.location = `detail.html?id=${show.id}`;
     list.appendChild(card);
   });
 }
+
 
 document.getElementById("loadMore").onclick = () => {
   page++;
