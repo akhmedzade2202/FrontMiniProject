@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Task 1 & Task 2";
+    var products = ViewData["Products"] as List<string>;
+}
+
+<h2>🛒 Məhsullar siyahısı</h2>
+
+<ul>
+    @foreach (var item in products)
+    {
+        <li>@item</li>
+    }
+</ul>
+
+<hr />
+
+<h2>📢 Əməliyyat Nəticəsi</h2>
+
+@if (ViewBag.IsSuccess == true)
+{
+    <p style="color: green; font-weight: bold;">
+        Əməliyyat uğurla yerinə yetirildi 
+    </p>
+}
+else
+{
+    <p style="color: red; font-weight: bold;">
+        Əməliyyat zamanı xəta baş verdi 
+    </p>
+}
