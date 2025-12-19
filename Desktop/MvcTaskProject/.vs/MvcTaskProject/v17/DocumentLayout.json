@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\MvcTaskProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\CodeAcademy\\MvcTaskProject\\MvcTaskProject\\Migrations\\20251218234244_AddBlogTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\CodeAcademy\\MvcTaskProject\\MvcTaskProject\\Migrations\\20251218231002_AddBlogTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\models\\sliderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\models\\sliderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\mvctaskproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\mvctaskproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|c:\\users\\user\\desktop\\mvctaskproject\\mvctaskproject\\migrations\\20251218235203_addblogtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6DF97-5F56-4FFD-A89C-4A3788DBF9E6}|MvcTaskProject\\MvcTaskProject.csproj|solutionrelative:mvctaskproject\\migrations\\20251218235203_addblogtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251218235203_AddBlogTables.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Migrations\\20251218235203_AddBlogTables.cs",
+              "RelativeDocumentMoniker": "MvcTaskProject\\Migrations\\20251218235203_AddBlogTables.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Migrations\\20251218235203_AddBlogTables.cs",
+              "RelativeToolTip": "MvcTaskProject\\Migrations\\20251218235203_AddBlogTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T23:52:03.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "MvcTaskProject\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "MvcTaskProject\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T23:49:30.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251218234244_AddBlogTables.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcTaskProject\\MvcTaskProject\\Migrations\\20251218234244_AddBlogTables.cs",
+              "RelativeDocumentMoniker": "..\\CodeAcademy\\MvcTaskProject\\MvcTaskProject\\Migrations\\20251218234244_AddBlogTables.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcTaskProject\\MvcTaskProject\\Migrations\\20251218234244_AddBlogTables.cs",
+              "RelativeToolTip": "..\\CodeAcademy\\MvcTaskProject\\MvcTaskProject\\Migrations\\20251218234244_AddBlogTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T23:42:45.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MvcTaskProject\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MvcTaskProject\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:25:34.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcTaskProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcTaskProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:26:18.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcTaskProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcTaskProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T20:22:42.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251218231002_AddBlogTables.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcTaskProject\\MvcTaskProject\\Migrations\\20251218231002_AddBlogTables.cs",
+              "RelativeDocumentMoniker": "..\\CodeAcademy\\MvcTaskProject\\MvcTaskProject\\Migrations\\20251218231002_AddBlogTables.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcTaskProject\\MvcTaskProject\\Migrations\\20251218231002_AddBlogTables.cs",
+              "RelativeToolTip": "..\\CodeAcademy\\MvcTaskProject\\MvcTaskProject\\Migrations\\20251218231002_AddBlogTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T23:10:02.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SliderInfo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Models\\SliderInfo.cs",
+              "RelativeDocumentMoniker": "MvcTaskProject\\Models\\SliderInfo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Models\\SliderInfo.cs",
+              "RelativeToolTip": "MvcTaskProject\\Models\\SliderInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:31:20.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "MvcTaskProject\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "MvcTaskProject\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:33:21.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "MvcTaskProject\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Models\\Slider.cs",
+              "RelativeToolTip": "MvcTaskProject\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:31:08.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MvcTaskProject\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "MvcTaskProject\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:31:00.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcTaskProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcTaskProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T20:12:16.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MvcTaskProject\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\appsettings.Development.json",
+              "RelativeToolTip": "MvcTaskProject\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T21:23:54.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Program.cs",
+              "RelativeDocumentMoniker": "MvcTaskProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Program.cs",
+              "RelativeToolTip": "MvcTaskProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:39:08.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MvcTaskProject.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\MvcTaskProject.csproj",
+              "RelativeDocumentMoniker": "MvcTaskProject\\MvcTaskProject.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\MvcTaskProject.csproj",
+              "RelativeToolTip": "MvcTaskProject\\MvcTaskProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-18T20:48:23.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcTaskProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\appsettings.json",
+              "RelativeToolTip": "MvcTaskProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T20:39:21.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MvcTaskProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MvcTaskProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T20:37:53.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcTaskProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcTaskProject\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T20:39:05.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MvcTaskProject\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MvcTaskProject\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T20:39:29.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "MvcTaskProject\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MvcTaskProject\\MvcTaskProject\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "MvcTaskProject\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-18T20:38:47.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
