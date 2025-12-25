@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\views\\shared\\components\\bestsaler\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\views\\shared\\components\\bestsaler\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\viewcomponents\\bestsalerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\viewcomponents\\bestsalerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\viewcomponents\\vesitableviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\viewcomponents\\vesitableviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\viewcomponents\\tastimonialviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\viewcomponents\\tastimonialviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\viewcomponents\\heroviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\viewcomponents\\heroviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\viewcomponents\\fruitviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\viewcomponents\\fruitviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\viewcomponents\\featureviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\viewcomponents\\featureviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\viewcomponents\\featuresectionviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\viewcomponents\\featuresectionviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\viewcomponents\\factviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\viewcomponents\\factviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\viewcomponents\\bannerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\viewcomponents\\bannerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\views\\shared\\components\\featuresection\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\views\\shared\\components\\featuresection\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\views\\shared\\components\\fact\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\views\\shared\\components\\fact\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\views\\shared\\components\\tastimonial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\views\\shared\\components\\tastimonial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\views\\shared\\components\\banner\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\views\\shared\\components\\banner\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\views\\shared\\components\\feature\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\views\\shared\\components\\feature\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\views\\shared\\components\\vesitable\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\views\\shared\\components\\vesitable\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\views\\shared\\components\\fruit\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\views\\shared\\components\\fruit\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\views\\shared\\components\\hero\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\views\\shared\\components\\hero\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|c:\\users\\user\\desktop\\codeacademy\\mvcprac\\mvcprac\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C4BCBD0-8AAE-4DED-92D0-33D097AF703F}|MvcPrac\\MvcPrac.csproj|solutionrelative:mvcprac\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VesitableViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\VesitableViewComponent.cs",
+              "RelativeDocumentMoniker": "MvcPrac\\ViewComponents\\VesitableViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\VesitableViewComponent.cs",
+              "RelativeToolTip": "MvcPrac\\ViewComponents\\VesitableViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:18:25.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BestSalerViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\BestSalerViewComponent.cs",
+              "RelativeDocumentMoniker": "MvcPrac\\ViewComponents\\BestSalerViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\BestSalerViewComponent.cs",
+              "RelativeToolTip": "MvcPrac\\ViewComponents\\BestSalerViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:29:48.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\BestSaler\\Default.cshtml",
+              "RelativeDocumentMoniker": "MvcPrac\\Views\\Shared\\Components\\BestSaler\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\BestSaler\\Default.cshtml",
+              "RelativeToolTip": "MvcPrac\\Views\\Shared\\Components\\BestSaler\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAP4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T15:20:18.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcPrac\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcPrac\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T13:42:42.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TastimonialViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\TastimonialViewComponent.cs",
+              "RelativeDocumentMoniker": "MvcPrac\\ViewComponents\\TastimonialViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\TastimonialViewComponent.cs",
+              "RelativeToolTip": "MvcPrac\\ViewComponents\\TastimonialViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:30:32.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HeroViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\HeroViewComponent.cs",
+              "RelativeDocumentMoniker": "MvcPrac\\ViewComponents\\HeroViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\HeroViewComponent.cs",
+              "RelativeToolTip": "MvcPrac\\ViewComponents\\HeroViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:42:55.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FruitViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\FruitViewComponent.cs",
+              "RelativeDocumentMoniker": "MvcPrac\\ViewComponents\\FruitViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\FruitViewComponent.cs",
+              "RelativeToolTip": "MvcPrac\\ViewComponents\\FruitViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:04:59.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeatureViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\FeatureViewComponent.cs",
+              "RelativeDocumentMoniker": "MvcPrac\\ViewComponents\\FeatureViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\FeatureViewComponent.cs",
+              "RelativeToolTip": "MvcPrac\\ViewComponents\\FeatureViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:59:12.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeatureSectionViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\FeatureSectionViewComponent.cs",
+              "RelativeDocumentMoniker": "MvcPrac\\ViewComponents\\FeatureSectionViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\FeatureSectionViewComponent.cs",
+              "RelativeToolTip": "MvcPrac\\ViewComponents\\FeatureSectionViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:03:31.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FactViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\FactViewComponent.cs",
+              "RelativeDocumentMoniker": "MvcPrac\\ViewComponents\\FactViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\FactViewComponent.cs",
+              "RelativeToolTip": "MvcPrac\\ViewComponents\\FactViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:30:07.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BannerViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\BannerViewComponent.cs",
+              "RelativeDocumentMoniker": "MvcPrac\\ViewComponents\\BannerViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\ViewComponents\\BannerViewComponent.cs",
+              "RelativeToolTip": "MvcPrac\\ViewComponents\\BannerViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:29:31.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\FeatureSection\\Default.cshtml",
+              "RelativeDocumentMoniker": "MvcPrac\\Views\\Shared\\Components\\FeatureSection\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\FeatureSection\\Default.cshtml",
+              "RelativeToolTip": "MvcPrac\\Views\\Shared\\Components\\FeatureSection\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T14:52:07.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\Fact\\Default.cshtml",
+              "RelativeDocumentMoniker": "MvcPrac\\Views\\Shared\\Components\\Fact\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\Fact\\Default.cshtml",
+              "RelativeToolTip": "MvcPrac\\Views\\Shared\\Components\\Fact\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T15:21:46.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\Tastimonial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MvcPrac\\Views\\Shared\\Components\\Tastimonial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\Tastimonial\\Default.cshtml",
+              "RelativeToolTip": "MvcPrac\\Views\\Shared\\Components\\Tastimonial\\Default.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowGYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T15:21:20.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\Banner\\Default.cshtml",
+              "RelativeDocumentMoniker": "MvcPrac\\Views\\Shared\\Components\\Banner\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\Banner\\Default.cshtml",
+              "RelativeToolTip": "MvcPrac\\Views\\Shared\\Components\\Banner\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T15:19:37.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\Feature\\Default.cshtml",
+              "RelativeDocumentMoniker": "MvcPrac\\Views\\Shared\\Components\\Feature\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\Feature\\Default.cshtml",
+              "RelativeToolTip": "MvcPrac\\Views\\Shared\\Components\\Feature\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T15:10:39.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\Vesitable\\Default.cshtml",
+              "RelativeDocumentMoniker": "MvcPrac\\Views\\Shared\\Components\\Vesitable\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\Vesitable\\Default.cshtml",
+              "RelativeToolTip": "MvcPrac\\Views\\Shared\\Components\\Vesitable\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T15:17:37.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\Fruit\\Default.cshtml",
+              "RelativeDocumentMoniker": "MvcPrac\\Views\\Shared\\Components\\Fruit\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\Fruit\\Default.cshtml",
+              "RelativeToolTip": "MvcPrac\\Views\\Shared\\Components\\Fruit\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkCAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T15:14:52.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Program.cs",
+              "RelativeDocumentMoniker": "MvcPrac\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Program.cs",
+              "RelativeToolTip": "MvcPrac\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:44:22.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\Hero\\Default.cshtml",
+              "RelativeDocumentMoniker": "MvcPrac\\Views\\Shared\\Components\\Hero\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\Components\\Hero\\Default.cshtml",
+              "RelativeToolTip": "MvcPrac\\Views\\Shared\\Components\\Hero\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T14:44:10.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcPrac\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcPrac\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAowBQBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T13:58:34.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MvcPrac\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MvcPrac\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:49:34.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MvcPrac\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\appsettings.Development.json",
+              "RelativeToolTip": "MvcPrac\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T13:48:06.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcPrac\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcPrac\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:42:47.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcPrac\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\appsettings.json",
+              "RelativeToolTip": "MvcPrac\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T13:42:39.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcPrac\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcPrac\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T13:42:37.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MvcPrac\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\MvcPrac\\MvcPrac\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MvcPrac\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T13:42:27.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+﻿@model BlogDetailVM
+
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@Model.Title</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #fdfbfb 0%, #f8f3f0 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 0.6s ease;
+        }
+
+        @@keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        }
+
+        .blog-header {
+            position: relative;
+            height: 450px;
+            overflow: hidden;
+            background: linear-gradient(135deg, #ff6b9d 0%, #c44569 100%);
+        }
+
+        .blog-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s ease;
+        }
+
+            .blog-image:hover {
+                transform: scale(1.05);
+            }
+
+        .image-overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
+            padding: 40px;
+            color: white;
+        }
+
+        .category-badge {
+            display: inline-block;
+            background: rgba(255, 105, 135, 0.9);
+            color: white;
+            padding: 8px 20px;
+            border-radius: 25px;
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 15px;
+            letter-spacing: 0.5px;
+        }
+
+        .blog-content {
+            padding: 50px;
+        }
+
+        h1 {
+            font-size: 42px;
+            color: #2d3748;
+            margin-bottom: 20px;
+            line-height: 1.3;
+            font-weight: 700;
+        }
+
+        .meta-info {
+            display: flex;
+            align-items: center;
+            gap: 30px;
+            margin-bottom: 35px;
+            padding-bottom: 25px;
+            border-bottom: 2px solid #f7fafc;
+            flex-wrap: wrap;
+        }
+
+        .author-info {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .author-avatar {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #ff6b9d 0%, #c44569 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 700;
+            font-size: 20px;
+        }
+
+        .author-details h3 {
+            font-size: 16px;
+            color: #2d3748;
+            margin-bottom: 3px;
+            font-weight: 600;
+        }
+
+        .author-title {
+            font-size: 13px;
+            color: #718096;
+        }
+
+        .date-info {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: #718096;
+            font-size: 14px;
+        }
+
+        .date-icon {
+            width: 18px;
+            height: 18px;
+            color: #ff6b9d;
+        }
+
+        .description {
+            font-size: 18px;
+            line-height: 1.8;
+            color: #4a5568;
+            margin-bottom: 40px;
+            text-align: justify;
+        }
+
+        .decorative-line {
+            width: 80px;
+            height: 4px;
+            background: linear-gradient(90deg, #ff6b9d, #ffa8a8);
+            margin: 40px 0;
+            border-radius: 2px;
+        }
+
+        .action-buttons {
+            display: flex;
+            gap: 15px;
+            margin-top: 40px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 14px 32px;
+            border: none;
+            border-radius: 30px;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #ff6b9d 0%, #c44569 100%);
+            color: white;
+            box-shadow: 0 10px 25px rgba(255, 107, 157, 0.3);
+        }
+
+            .btn-primary:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 15px 35px rgba(255, 107, 157, 0.4);
+            }
+
+        .btn-secondary {
+            background: white;
+            color: #ff6b9d;
+            border: 2px solid #ff6b9d;
+        }
+
+            .btn-secondary:hover {
+                background: #ff6b9d;
+                color: white;
+                transform: translateY(-2px);
+            }
+
+        .flower-decoration {
+            position: fixed;
+            opacity: 0.1;
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        .flower-1 {
+            top: 10%;
+            left: 5%;
+            font-size: 120px;
+            transform: rotate(-15deg);
+        }
+
+        .flower-2 {
+            bottom: 15%;
+            right: 8%;
+            font-size: 150px;
+            transform: rotate(25deg);
+        }
+
+        .no-image-placeholder {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 80px;
+        }
+
+        @@media (max-width: 768px) {
+            .blog-content {
+                padding: 30px 25px;
+            }
+
+            h1 {
+                font-size: 32px;
+            }
+
+            .description {
+                font-size: 16px;
+            }
+
+            .meta-info {
+                gap: 15px;
+            }
+
+            .blog-header {
+                height: 300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="flower-decoration flower-1">🌸</div>
+    <div class="flower-decoration flower-2">🌺</div>
+
+    <div class="container">
+        <div class="blog-header">
+            @if (Model.BlogImage != null)
+            {
+                <img src="~/assets/img/@Model.BlogImage.Image" alt="@Model.Title" class="blog-image">
+                <div class="image-overlay">
+                    <span class="category-badge">🌹 Çiçəkçilik</span>
+                </div>
+            }
+            else
+            {
+                <div class="no-image-placeholder">
+                    🌷
+                </div>
+                <div class="image-overlay">
+                    <span class="category-badge">🌹 Çiçəkçilik</span>
+                </div>
+            }
+        </div>
+
+        <div class="blog-content">
+            <h1>@Model.Title</h1>
+
+            <div class="meta-info">
+                <div class="author-info">
+                    <div class="author-avatar">
+                        @if (!string.IsNullOrEmpty(Model.TeacherName))
+                        {
+                            @Model.TeacherName.Substring(0, 1).ToUpper()
+                        }
+                        else
+                        {
+                            <text>?</text>
+                        }
+                    </div>
+                    <div class="author-details">
+                        <h3>@Model.TeacherName</h3>
+                        <div class="author-title">Baş Çiçəkçi</div>
+                    </div>
+                </div>
+                <div class="date-info">
+                    <svg class="date-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                    </svg>
+                    @Model.CreatedDate.ToString("MMMM dd, yyyy")
+                </div>
+            </div>
+
+            <div class="decorative-line"></div>
+
+            <div class="description">
+                <p>@Model.Description</p>
+            </div>
+
+            <div class="action-buttons">
+                <a href="/" class="btn btn-secondary">
+                    ← Geri Qayıt
+                </a>
+                <a href="/contact" class="btn btn-primary">
+                    🛒 Çiçək Sifariş Et
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.animation = 'fadeIn 0.6s ease';
+                    }
+                });
+            });
+
+            document.querySelectorAll('.blog-content > *').forEach(el => {
+                observer.observe(el);
+            });
+        });
+
+        document.querySelectorAll('.btn').forEach(btn => {
+            btn.addEventListener('click', function(e) {
+                this.style.transform = 'scale(0.95)';
+                setTimeout(() => {
+                    this.style.transform = '';
+                }, 150);
+            });
+        });
+    </script>
+</body>
+</html>
